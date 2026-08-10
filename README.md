@@ -99,6 +99,4 @@ The workflow defined in `.github/workflows/ci-cd.yml`:
 - This is a local/demo GitOps setup using **Kind** rather than a managed cluster (e.g. EKS) — intended to showcase the pipeline mechanics end to end without cloud costs.
 - Argo CD continuously watches the Git repo, so deployments are pull-based rather than pushed by CI directly.
 
-## Author
-
-[jeenicj97](https://github.com/jeenicj97)
+---
